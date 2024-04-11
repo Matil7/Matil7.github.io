@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://matil7.github.io/</loc>
-    <lastmod>2024-04-11T20:14:33+08:00</lastmod>
-  </url><url>
-    <loc>https://matil7.github.io/posts/</loc>
-    <lastmod>2024-04-11T20:14:33+08:00</lastmod>
-  </url><url>
-    <loc>https://matil7.github.io/post/</loc>
+    <loc>https://Matil7.github.io/</loc>
     <lastmod>2024-04-11T20:11:49+08:00</lastmod>
   </url><url>
-    <loc>https://matil7.github.io/categories/</loc>
+    <loc>https://Matil7.github.io/post/</loc>
+    <lastmod>2024-04-11T20:11:49+08:00</lastmod>
   </url><url>
-    <loc>https://matil7.github.io/tags/</loc>
+    <loc>https://Matil7.github.io/categories/</loc>
+  </url><url>
+    <loc>https://Matil7.github.io/tags/</loc>
   </url>
 </urlset>
