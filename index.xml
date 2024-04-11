@@ -1,47 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>matil7</title>
+    <link>https://matil7.github.io/</link>
+    <description>Recent content on matil7</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2024 21:27:59 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Md</title>
-      <link>http://localhost:1313/post/md/</link>
-      <pubDate>Thu, 11 Apr 2024 21:27:59 +0800</pubDate>
-      <guid>http://localhost:1313/post/md/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New</title>
-      <link>http://localhost:1313/post/new/</link>
-      <pubDate>Thu, 11 Apr 2024 21:15:08 +0800</pubDate>
-      <guid>http://localhost:1313/post/new/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Matil</title>
-      <link>http://localhost:1313/post/matil/</link>
-      <pubDate>Thu, 11 Apr 2024 21:12:58 +0800</pubDate>
-      <guid>http://localhost:1313/post/matil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>小阳的blog</title>
-      <link>http://localhost:1313/post/%E5%B0%8F%E9%98%B3%E7%9A%84blog/</link>
-      <pubDate>Thu, 11 Apr 2024 20:11:49 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E5%B0%8F%E9%98%B3%E7%9A%84blog/</guid>
-      <description>Hello hello hello how low o~~~~</description>
-    </item>
-    <item>
-      <title>14</title>
-      <link>http://localhost:1313/post/14/</link>
-      <pubDate>Tue, 09 Apr 2024 17:51:09 +0800</pubDate>
-      <guid>http://localhost:1313/post/14/</guid>
-      <description>Alsdkjalskdjalskdjla</description>
-    </item>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright><atom:link href="https://matil7.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
