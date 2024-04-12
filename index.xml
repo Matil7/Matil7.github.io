@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Paper</title>
     <link>https://matil7.github.io/</link>
     <description>Recent content on Paper</description>
+=======
+    <title>matil7</title>
+    <link>https://matil7.github.io/</link>
+    <description>Recent content on matil7</description>
+>>>>>>> 245546d2b79027d2af212ef2b820cd4c9420eb8b
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright><atom:link href="https://matil7.github.io/index.xml" rel="self" type="application/rss+xml" />
