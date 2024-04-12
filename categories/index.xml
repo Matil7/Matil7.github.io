@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on matil7</title>
+    <title>Categories on matil&#39;s blog</title>
     <link>https://matil7.github.io/categories/</link>
-    <description>Recent content in Categories on matil7</description>
+    <description>Recent content in Categories on matil&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright><atom:link href="https://matil7.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 16:10:53 +0800</lastBuildDate><atom:link href="https://matil7.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category</title>
+      <link>https://matil7.github.io/categories/category/</link>
+      <pubDate>Fri, 12 Apr 2024 16:10:53 +0800</pubDate>
+      
+      <guid>https://matil7.github.io/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subcategory</title>
+      <link>https://matil7.github.io/categories/subcategory/</link>
+      <pubDate>Fri, 12 Apr 2024 16:10:53 +0800</pubDate>
+      
+      <guid>https://matil7.github.io/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
