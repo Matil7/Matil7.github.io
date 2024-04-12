@@ -1,63 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>steinsgo&#39;s blog</title>
+    <title>阳阳&#39;s blog</title>
     <link>https://matil7.github.io/</link>
-    <description>Recent content on steinsgo&#39;s blog</description>
+    <description>Recent content on 阳阳&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 21:44:32 +0800</lastBuildDate><atom:link href="https://matil7.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wori</title>
-      <link>https://matil7.github.io/post/wori/</link>
-      <pubDate>Fri, 12 Apr 2024 21:44:32 +0800</pubDate>
-      
-      <guid>https://matil7.github.io/post/wori/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 12 Apr 2024 21:42:37 +0800</lastBuildDate><atom:link href="https://matil7.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hh</title>
-      <link>https://matil7.github.io/post/hh/</link>
+      <link>https://matil7.github.io/post/matil7/</link>
       <pubDate>Fri, 12 Apr 2024 21:42:37 +0800</pubDate>
       
-      <guid>https://matil7.github.io/post/hh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mmmmm</title>
-      <link>https://matil7.github.io/post/mmmmm/</link>
-      <pubDate>Fri, 12 Apr 2024 20:51:01 +0800</pubDate>
-      
-      <guid>https://matil7.github.io/post/mmmmm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M</title>
-      <link>https://matil7.github.io/post/m/</link>
-      <pubDate>Fri, 12 Apr 2024 20:48:22 +0800</pubDate>
-      
-      <guid>https://matil7.github.io/post/m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mm</title>
-      <link>https://matil7.github.io/post/mm/</link>
-      <pubDate>Fri, 12 Apr 2024 20:41:49 +0800</pubDate>
-      
-      <guid>https://matil7.github.io/post/mm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matil</title>
-      <link>https://matil7.github.io/post/matil/</link>
-      <pubDate>Fri, 12 Apr 2024 18:42:43 +0800</pubDate>
-      
-      <guid>https://matil7.github.io/post/matil/</guid>
+      <guid>https://matil7.github.io/post/matil7/</guid>
       <description></description>
     </item>
     
