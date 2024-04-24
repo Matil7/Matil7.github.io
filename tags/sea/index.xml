@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sea on 阳阳&#39;s blog</title>
+    <link>https://matil7.github.io/tags/sea/</link>
+    <description>Recent content in sea on 阳阳&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 21:42:37 +0800</lastBuildDate><atom:link href="https://matil7.github.io/tags/sea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HELLO</title>
+      <link>https://matil7.github.io/post/hello/</link>
+      <pubDate>Fri, 12 Apr 2024 21:42:37 +0800</pubDate>
+      
+      <guid>https://matil7.github.io/post/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
